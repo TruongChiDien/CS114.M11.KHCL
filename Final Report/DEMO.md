@@ -1,2 +1,3 @@
-![Github](https://github.com/TruongChiDien/ML_Project_FastAPI.git)
-![Youtube](Link youtube: https://youtu.be/zsxWKfsG3G0)
+[Github](https://github.com/TruongChiDien/ML_Project_FastAPI.git)
+
+[Youtube](https://youtu.be/zsxWKfsG3G0)
