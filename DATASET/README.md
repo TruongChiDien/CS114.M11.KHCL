@@ -2,6 +2,10 @@
 **Thu thập dữ liệu:**
 1. Dữ liệu từ cuộc thi Datacomp do FPT tổ chức vào tháng 10/2021. Bộ dữ liệu của cuộc thi gồm 1064 ảnh được trích xuất từ camera giám sát của một công ty. Số ảnh này quá ít để huấn luyện một mô hình học sâu hiệu quả với hàng chục triệu trọng số.
 2. Để mà giải quyết vấn đề thiếu dữ liệu thì chúng tôi thực hiện công việc thu thập thêm dữ liệu cho bài toán. Chúng tôi tham khảo các bài báo trên Scholar thì tìm được một số nguồn dữ liệu liên quan đến camera giám sát như WILDTRACK, BrainWash, Oxford Town Center. Và trang web EarthCam chuyên chia sẻ dữ liệu các camera giám sát được công khai tại khắp nơi trên thế giới. Sau khi duyệt qua các một số camera trên EarthCam, chúng tôi chỉ chọn được 1 camera có góc nhìn tương tự như bài toán và có thể sử dụng được. 
+![image BrainWash](https://user-images.githubusercontent.com/81378994/152719845-953aedc0-233c-4579-8962-2957bef21bc0.jpg)
+
+    Ảnh từ tập dữ liệu BrainWash gồm 219 ảnh
+
 Sau khi quá trình tách khung hình từ video và chọn lọc thì chúng tôi thu được thêm 1152 ảnh. Cộng với dữ liệu từ cuộc thi Datacomp của FPT 1064 ảnh, nâng tổng số ảnh trong tập dữ liệu lên thành 2,216 ảnh.
 
 **Phân bố dữ liệu:**
