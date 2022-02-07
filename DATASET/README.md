@@ -41,3 +41,17 @@ Quy tắc gắn nhãn của chúng tôi tuân theo bộ dữ liệu ban đầu, 
 
 
 ## SỬ DỤNG DỮ LIỆU
+
+Bộ dữ liệu bao gồm 2.216 ảnh, được chia theo tỉ lệ train:val:test là 8:1:1. Phân bố dữ liệu như biểu đồ bên dưới.
+
+![pbdl chia](https://user-images.githubusercontent.com/81378994/152721770-3f0f6d02-7207-460c-814e-4ac7db30e4d9.png)
+
+![object in img](https://user-images.githubusercontent.com/81378994/152722048-6ef29868-2203-4e9d-b8d3-220dde8f09cb.png)
+
+Phân bố đối tượng trong khung hình
+
+![ti le bb](https://user-images.githubusercontent.com/81378994/152721923-8e2a2262-3b4a-467d-87e9-79729ee3f864.png)
+
+Phân bố tỉ lệ Bouding Box
+
+
