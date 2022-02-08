@@ -1,4 +1,3 @@
-[DATASET được tải lên Drive](https://drive.google.com/drive/folders/1oLiNXXNZcLl-aEivROvLKiIbUctJelJL)
 ## XÂY DỰNG DATASET
 **Thu thập dữ liệu:**
 1. Dữ liệu từ cuộc thi Datacomp do FPT tổ chức vào tháng 10/2021. Bộ dữ liệu của cuộc thi gồm 1064 ảnh được trích xuất từ camera giám sát của một công ty. Số ảnh này quá ít để huấn luyện một mô hình học sâu hiệu quả với hàng chục triệu trọng số.
